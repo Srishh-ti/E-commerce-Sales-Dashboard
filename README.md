@@ -4,12 +4,6 @@ An interactive Power BI dashboard built to help **Madhav Store** track and analy
 
 ---
 
-## 📸 Dashboard Preview
-
-![Madhav E-Commerce Sales Dashboard](<img width="2263" height="1232" alt="Screenshot 2026-05-05 134120" src="https://github.com/user-attachments/assets/c8e0a7ef-7435-4bb2-922b-90a80a85f583" />)
-
----
-
 ## 📌 Key Metrics
 
 | Metric | Value |
@@ -82,7 +76,7 @@ Madhav-Ecommerce-Dashboard/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Madhav-Ecommerce-Dashboard.git
+   git clone [https://github.com/Srishh-ti/E-commerce-Sales-Dashboard]
    ```
 2. Open `Dashboard.pbix` in **Power BI Desktop**.
 3. If prompted, update the data source path to point to your local `Orders.csv` and `Details.csv` files.
