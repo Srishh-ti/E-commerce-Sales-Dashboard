@@ -63,6 +63,12 @@ Madhav-Ecommerce-Dashboard/
 
 ---
 
+## 📸 Dashboard Preview
+
+
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop** — Dashboard creation and data modeling
