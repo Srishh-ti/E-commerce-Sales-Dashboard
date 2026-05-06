@@ -65,7 +65,7 @@ Madhav-Ecommerce-Dashboard/
 
 ## 📸 Dashboard Preview
 
-
+https://github.com/Srishh-ti/E-commerce-Sales-Dashboard/blob/main/dashboard_preview.png
 
 ---
 
